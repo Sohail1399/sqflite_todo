@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544647473692",
+    "project_id": "flutter-firebase1-62a31",
+    "storage_bucket": "flutter-firebase1-62a31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544647473692:android:29c0b3b4d2bc13daf04dd9",
+        "android_client_info": {
+          "package_name": "com.example.sqflite_todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMDVptidQ1xasysGhZZRyqAdjOZtvLDQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
